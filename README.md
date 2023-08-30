@@ -6,7 +6,7 @@ Make use of Flash loan from DY/DX to earn more from Compound.
 
 ## 🔧 Deposit Diagram:
 
-![Deposit Diagram](https://dev-badis-salhi-portfolio.pantheonsite.io/wp-content/uploads/2023/08/Deposit.png)
+![Deposit Diagram](https://dev-badis-salhi-portfolio.pantheonsite.io/wp-content/uploads/2023/05/Deposit.png)
 `</br>`
 
 ## 🔧 Withdraw Diagram:
